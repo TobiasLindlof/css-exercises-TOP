@@ -1,0 +1,18 @@
+.one {
+    background-color: #f6aecc;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.two {
+    font-size: 24px;
+}
+
+#blue {
+    color: #400ee2;
+    font-size: 36px;
+}
+
+#greenback {
+    background-color: #7ff995;
+    font-weight: 700;
+}
